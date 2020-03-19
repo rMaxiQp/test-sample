@@ -4,7 +4,7 @@ Bookmarks:
 
 - [Overview](#Overview)
 - [Testing Levels](#Testing-levels)
-- [Testing Techniques](#testing-types,-techniques-and-tactics)
+- [Testing Techniques](#testing-types-techniques-and-tactics)
 - [Testing Artifacts](#testing-artifacts)
 
 ## Overview

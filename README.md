@@ -1,13 +1,13 @@
 # test-sample
 
-Bookmarks:
+## Table of Content
 
-- [Overview](#Overview)
+- [Testing Methods](#testing-methods)
 - [Testing Levels](#Testing-levels)
 - [Testing Techniques](#testing-types-techniques-and-tactics)
 - [Testing Artifacts](#testing-artifacts)
 
-## Overview
+## Testing Methods
 
 > The general aim of testing is to affirm the quality of software systems by systematically exercising the software in carefully controlled circumstances.
 
@@ -95,7 +95,7 @@ One advantage of the black box techniques is that no programming knowledge is re
 
 > Grey-box testing (American spelling: gray-box testing) involves having knowledge of internal data structures and algorithms for purposes of designing tests while executing those tests at the user, or black-box level.
 
-The tester will often access to both "the source code and the executable binary." It may also include reverse engineering. Manipulating input data and formatting output is outside of the "black box", and it is not a practice of gray-box testing. 
+The tester will often access to both "the source code and the executable binary." It may also include reverse engineering. Manipulating input data and formatting output is outside of the "black box", and it is not a practice of gray-box testing.
 
 A gray-box tester usually apply the knowledge to test on data type handling, exception handling, and so on inside a sandbox to observe the state of the product.
 
